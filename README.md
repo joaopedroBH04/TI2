@@ -1,4 +1,4 @@
-# Repositório criado para anexação da atividade avaliativa 01 da disciplina de TI II.
+# Repositório criado para anexação das atividades avaliativas e trabalhos feitos na disciplina de TI II.
 
 
 ## João Pedro Costa Amaral
